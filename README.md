@@ -57,7 +57,7 @@ to start
   cd ./server
 ```
 
-Start Server using node or nodemon
+9- Start Server using node or nodemon
 
 ```bash
   node index.js 
