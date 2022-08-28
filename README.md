@@ -14,7 +14,7 @@ simple kanban app
 *add youtube lists in tasks
 
 
-to start 
+## Run Locally
 
 1-Clone the project
 
@@ -67,6 +67,7 @@ or
   nodemon index.js
 ```
 
+## Environment Variables
 To run this project, you will need to add the following environment variables to your server/.env file
 
 `MONGODB_URL` your database url
